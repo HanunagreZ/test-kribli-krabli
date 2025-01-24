@@ -1,6 +1,3 @@
-import { NextApiRequest, NextApiResponse } from 'next';
-import { NextRequest } from 'next/server';
-
 // Telegram BOT API token
 const TELEGRAM_BOT_API_TOKEN = process.env.TELEGRAM_BOT_TOKEN;
 
